@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124746510264",
+    "project_id": "flutterbloc-97b7f",
+    "storage_bucket": "flutterbloc-97b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124746510264:android:bbe61a68681183e81ee94d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tuto_blc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnkqz_6D-Ltg2DH1mssIY6aGCnMnGNYVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
